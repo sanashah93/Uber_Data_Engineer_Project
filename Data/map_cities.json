@@ -4,24 +4,28 @@
     "city": "New York",
     "state": "NY",
     "region": "Northeast"
+    "udpated_at" : "2026-03-13T21:40:16.836+00:00"
   },
   {
     "city_id": 2,
     "city": "Los Angelas",
     "state": "CA",
     "region": "West"
+    "udpated_at" : "2026-03-13T21:40:16.836+00:00"
   },
   {
     "city_id": 3,
     "city": "Chicago",
     "state": "IL",
     "region": "Midwest"
+    "udpated_at" : "2026-03-13T21:40:16.836+00:00"
   },
   {
     "city_id": 4,
     "city": "Houston",
     "state": "TX",
     "region": "South"
+    "udpated_at" : "2026-03-13T21:40:16.836+00:00"
   },
   {
     "city_id": 5,
@@ -34,29 +38,34 @@
     "city": "Philadelphia",
     "state": "PA",
     "region": "Northeast"
+    "udpated_at" : "2026-03-13T21:40:16.836+00:00"
   },
   {
     "city_id": 7,
     "city": "San Antonio",
     "state": "TX",
     "region": "South"
+    "udpated_at" : "2026-03-13T21:40:16.836+00:00"
   },
   {
     "city_id": 8,
     "city": "San Diego",
     "state": "CA",
     "region": "West"
+    "udpated_at" : "2026-03-13T21:40:16.836+00:00"
   },
   {
     "city_id": 9,
     "city": "Dallas",
     "state": "TX",
     "region": "South"
+    "udpated_at" : "2026-03-13T21:40:16.836+00:00"
   },
   {
     "city_id": 10,
     "city": "San Jose",
     "state": "CA",
     "region": "West"
+    "udpated_at" : "2026-03-13T21:40:16.836+00:00"
   }
 ]
